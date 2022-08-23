@@ -1,0 +1,10 @@
+version: 0.1.4
+project: eunice-crop-mask
+description: OpenMapFlow eunice crop mask
+gcloud:
+    project_id: rcmrd-workshop-test
+    location: us-central1
+    bucket_labeled_eo: eunice-crop-mask-labeled-eo
+    bucket_inference_eo: eunice-crop-mask-inference-eo
+    bucket_preds: eunice-crop-mask-preds
+    bucket_preds_merged: eunice-crop-mask-preds-merged
