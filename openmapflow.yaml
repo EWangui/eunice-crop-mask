@@ -1,4 +1,4 @@
-version: 0.1.4
+version: 0.1.5
 project: eunice-crop-mask
 description: OpenMapFlow eunice crop mask
 gcloud:
